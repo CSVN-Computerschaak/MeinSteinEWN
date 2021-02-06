@@ -1,0 +1,9 @@
+Usage of the MeinStein program:
+
+- There is a complete distribution available, compiled with Java6. 
+- There is a Netbeans 6.5 project available.
+- Running can be done by the scripts runMeinStein.sh (Unix systems) and 
+  runMeinStein.bat (Windows environment).
+- Running can also be done by calling "ant run".
+- When running the program, there will be logging output to standard out!
+
